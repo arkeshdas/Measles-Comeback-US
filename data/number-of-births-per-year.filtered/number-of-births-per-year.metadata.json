@@ -1,0 +1,45 @@
+{
+  "chart": {
+    "title": "Births per year",
+    "subtitle": "Historic estimates from 1950 to 2023, and projected to 2100 based on the [UN medium scenario](#dod:un-projection-scenarios).",
+    "citation": "UN, World Population Prospects (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/number-of-births-per-year?country=~USA&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Births - Sex: all - Age: all - Variant: estimates": {
+      "titleShort": "Births, total",
+      "titleLong": "Births, total - UN WPP",
+      "descriptionShort": "Number of births recorded annually, based on the civil calendar year, spanning from January 1 to December 31.",
+      "unit": "births",
+      "timespan": "1950-2023",
+      "type": "Numeric",
+      "owidVariableId": 950616,
+      "shortName": "births__sex_all__age_all__variant_estimates",
+      "lastUpdated": "2024-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Births, total – UN WPP” [dataset]. United Nations, “World Population Prospects” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/950616.metadata.json"
+    },
+    "Births - Sex: all - Age: all - Variant: medium": {
+      "titleShort": "Births, medium projection",
+      "titleLong": "Births, medium projection - UN WPP",
+      "descriptionShort": "Number of births recorded annually, based on the civil calendar year, spanning from January 1 to December 31.  Projections from 2024 onwards are based on the UN's medium scenario.",
+      "unit": "births",
+      "timespan": "2024-2100",
+      "type": "Numeric",
+      "owidVariableId": 950622,
+      "shortName": "births__sex_all__age_all__variant_medium",
+      "lastUpdated": "2024-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Births, medium projection – UN WPP” [dataset]. United Nations, “World Population Prospects” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/950622.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-03-31",
+  "activeFilters": {
+    "country": "~USA"
+  }
+}
