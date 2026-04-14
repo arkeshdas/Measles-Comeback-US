@@ -8,4 +8,6 @@ Araynah: The layout of the poster is very good, you have the visuals. I think it
 
 Refelction on feedback:
 
-I think that this feedback was very useful. I think that I will probably reavaluate the color scheme for the 3rd plot, and also the overall color scheme for my slide. I also need to make the map multiple years/a gif. I will also add some more numbers and text for context for the final plot. I will also re-evaluate the size of the text that I've used, since I think that I need to find a balance between the bullets/info text and the text on the slide. I also want to change the color sceme, fliping the dark and the light colors. 
+I think that this feedback was very useful. I think that I will probably reavaluate the color scheme for the 3rd plot, and also the overall color scheme for my slide. I also need to make the map multiple years/a gif. I will also add some more numbers and text for context for the final plot. I will also re-evaluate the size of the text that I've used, since I think that I need to find a balance between the bullets/info text and the text on the slide. I also want to change the color sceme, fliping the dark and the light colors.
+
+https://davidmathlogic.com/colorblind/#%23E24B49-%23F09596-%2397C459-%233A6E12
