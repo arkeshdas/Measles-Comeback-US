@@ -1,0 +1,1 @@
+My final visualization contains a GIF. This GIF is not viewable in the pdf file that is included. To see the GIF, please open the powerpoint slide. Additionally, for some reason, my cumulative distribution plot's shading is grey in the pdf, but it is red in the powerpoint slide as I intended.  
