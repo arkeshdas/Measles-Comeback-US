@@ -584,4 +584,3 @@ In the births workflow, rows marked as projected were excluded before merging wi
 ## Summary
 
 This project uses a mixture of CDC, WHO, UN, Census, and other public data sources to analyze measles incidence and vaccination-related patterns across time and geography. The final workflow relies on Python-based filtering, reshaping, merging, and aggregation rather than on pre-saved merged datasets. This file is intended to document both the provenance of the source data and the specific role each dataset played in the final visualizations.
-
