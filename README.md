@@ -79,8 +79,10 @@ This project focuses on three main questions:
 │   ├── fig4_measles_map_2026_per100k.png
 │   ├── final_vis.ipynb
 │   └── measles_animation.gif
-└── final_writeup/
-    └── final_writeup_measles_project.md
+├── final_writeup
+│   └── final_writeup_measles_project.md
+├── reproducibility.md
+└── requirements.txt
 ```
 
 ### Folder Guide
@@ -193,6 +195,8 @@ A complete source list with dataset-specific notes is available in the [data dic
 ## Reproducibility Notes
 
 This repository preserves the overall project structure used during development, including draft artifacts and intermediate outputs. The final figures were generated through Python-based workflows in the included notebook, with cleaning and merging performed programmatically rather than through a single saved master dataset.
+
+Instructions for running the analysis and regenerating figures are available in [reproducibility.md](reproducibility.md).
 
 Some public health and demographic data required manual filtering, alignment, or supplementation to make year ranges and geographic units comparable. Those decisions are documented in the [data dictionary](data/data_dictionary.md) and discussed further in the [final writeup](final_writeup/final_writeup_measles_project.md).
 
