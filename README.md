@@ -2,6 +2,13 @@
 
 A data visualization and public health analysis project examining the re-emergence of measles in the United States and how outbreak risk relates to vaccination coverage, exemption rates, and accumulated pockets of under-vaccination.
 
+
+<p align="center">
+  <a href="final_presentation/final_poster.pptx">
+    <img src="final_presentation/final_poster.gif" alt="Final Poster Animation" width="800"/>
+  </a>
+</p>
+
 This repository is adapted from my final project for [CMSE 402: Data Visualization Principles and Techniques](https://msu-cmse-courses.github.io/cmse402-S26-student/) at Michigan State University.
 
 ## Overview
@@ -52,6 +59,7 @@ This project focuses on three main questions:
 │   ├── fig4_measles_map_2025.html
 │   └── fig4_measles_map_2025.png
 ├── final_presentation/
+│   ├── final_poster.gif
 │   ├── final_poster.pdf
 │   └── final_poster.pptx
 ├── final_visualizations/
@@ -95,9 +103,9 @@ The main analytical output folder. This contains the final figures, the year-by-
 
 #### [`final_presentation/`](final_presentation/)
 
-The final poster in both [PDF](final_presentation/final_poster.pdf) and [PowerPoint](final_presentation/final_poster.pptx) formats.
+The final poster in [PDF](final_presentation/final_poster.pdf) and [PowerPoint](final_presentation/final_poster.pptx), and [GIF](final_presentation/final_poster.gif) formats.
 
-**Note:** the animation included in the project is not viewable in the PDF poster. To view the GIF-based component as intended, open the PowerPoint version.
+**Note:** the animation included in the project is not viewable in the PDF poster. To view the GIF-based component as intended, open the PowerPoint version or the GIF.
 
 #### [`final_writeup/`](final_writeup/)
 
@@ -158,6 +166,7 @@ A written summary of the project’s goals, findings, design choices, and lesson
 
 [`final_presentation/final_poster.pdf`](final_presentation/final_poster.pdf)
 [`final_presentation/final_poster.pptx`](final_presentation/final_poster.pptx)
+[`final_presentation/final_poster.gif`](final_presentation/final_poster.gif)
 
 Presentation-ready versions of the project.
 
